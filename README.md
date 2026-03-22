@@ -1,6 +1,6 @@
 # Godot 2D Boid Simulation
 This is a 2D simulation of Boids. A Boid being an individual agent following simple rules, an example of bird/fish flocking simulation. This was part of a University
-project.
+project. Both the project files and build included.
 
 <img width="1870" height="1040" alt="Boids Project" src="https://github.com/user-attachments/assets/5a5d13f8-8f06-45f9-a173-e3affa30bfb3" />
 
